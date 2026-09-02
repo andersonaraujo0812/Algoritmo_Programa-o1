@@ -1,3 +1,12 @@
+/* 
+Faça um algoritmo que:
+crie um cardápio simples;
+leia o código do produto e a quantidade;
+calcule o valor a ser pago pelo cliente;
+imprimir o valor a ser pago;
+imprimir o nome do produto 
+*/
+
 import java.util.Scanner;
 
 public class CardapioLanchonete {
