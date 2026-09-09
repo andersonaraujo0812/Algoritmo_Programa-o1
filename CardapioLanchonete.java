@@ -43,7 +43,7 @@ public class CardapioLanchonete {
             case 100:
 
                 System.out.println("CACHORRO QUENTE - R$1,20");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
 
                 valorTotal += quantidade*1.20;                               
@@ -51,35 +51,35 @@ public class CardapioLanchonete {
 
             case 101:
                 System.out.println("BAURU SIMPLES - R$1,30");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
                 valorTotal += quantidade*1.30;
                 break;
 
             case 102:   
                 System.out.println("BAURU COM OVO - R$1,50");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
                 valorTotal += quantidade*1.50;
                 break;
 
             case 103:
                 System.out.println("HAMBÚRGER - R$1,20");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
                 valorTotal += quantidade*1.20;
                 break;
 
             case 104:
                 System.out.println("CHEESE BURGER - R$1,30");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
                 valorTotal += quantidade*1.30;
                 break;
 
             case 105:
                 System.out.println("REFRIGERANTE - R$1,00");
-                System.out.println("Digite a quantitade desejada: ");
+                System.out.println("Digite a quantidade desejada: ");
                 quantidade = entrada.nextInt();
                 valorTotal += quantidade*1.00;
                 break;
