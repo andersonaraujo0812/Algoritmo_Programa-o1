@@ -1,3 +1,4 @@
+package SwitchCase;
 /* 
 Faça um algoritmo que:
 crie um cardápio simples;
@@ -14,7 +15,7 @@ public class CardapioLanchonete {
     public static void main (String[] args){
         Scanner entrada = new Scanner(System.in);
         int cardapio = 0;
-        int quantidade =0;
+        int quantidade = 0;
         double valorTotal = 0.0;
 
         do{
@@ -91,7 +92,7 @@ public class CardapioLanchonete {
             default:
                 System.out.println("Opção inválida");
                 break;
-        }
+        } 
 
         
     } while (cardapio != 0);
