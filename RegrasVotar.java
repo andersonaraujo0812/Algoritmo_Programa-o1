@@ -1,3 +1,11 @@
+/*
+Desenvolver um algoritmo para definir se uma pessoa está apta 	a votar no Brasil.
+Pesquise: Quais são as regras para se votar no Brasil?
+Identifique quais os dados de entrada necessários para resolver o problema.
+Identifique quais regras devem ser satisfeitas para definir que uma pessoa está apta a votar.
+Faça um programa que pede as informações necessárias e verifica se 	uma pessoa está apta a votar.
+ */
+
 import java.util.Scanner;
 
 public class RegrasVotar {
@@ -31,8 +39,6 @@ public class RegrasVotar {
                 }
 
         
-
-
         entrada.close();
     }
 }
