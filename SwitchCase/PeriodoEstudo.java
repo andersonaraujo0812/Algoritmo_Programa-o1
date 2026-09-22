@@ -1,4 +1,5 @@
 /*
+Anderson de Araújo Júnior
 Faça um algoritmo que leia o período em que um aluno estuda:
 M - Matutino;
 V - Vespertino;

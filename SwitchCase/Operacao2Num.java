@@ -1,4 +1,5 @@
 /*
+Anderson de Araújo Júnior
 Faça um algoritmo que receba dois números;
 execute as operações listadas a seguir . . .
 de acordo com a escolha do usuário.

@@ -1,4 +1,5 @@
 /*
+Anderson de Araújo Júnior
 Um funcionário receberá aumento de acordo com seu plano de 	trabalho.
 Faça um algoritmo que leia:
 ¨ o plano de trabalho;

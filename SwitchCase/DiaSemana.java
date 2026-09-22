@@ -1,4 +1,5 @@
 /*
+Anderson de Araújo Júnior
 Crie um algoritmo que leia um número de 1 a 7.
 imprima o dia da semana correspondente;
 assuma que 1 corresponde ao Domingo.
