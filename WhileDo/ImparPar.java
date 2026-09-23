@@ -21,9 +21,11 @@ public class ImparPar {
             int num = entrada.nextInt();
             if (num%2==0) {
                 par += 1;
+                System.out.println("número par");
                 
             }else{
                 impar += 1;
+                System.out.println("número impar");
             }
             a++;
         } while (a<=10); 
