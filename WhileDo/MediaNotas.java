@@ -28,7 +28,7 @@ public class MediaNotas {
         System.out.println("Digite a primeira nota: ");
         nota1 = entrada.nextDouble();
 
-        while (nota1<=0 || nota1>10) {
+        while (nota1<0 || nota1>10) {
             System.out.println("Nota inválida, tente novamente: ");
             nota1 = entrada.nextDouble();
             
@@ -37,7 +37,7 @@ public class MediaNotas {
         System.out.println("Digite a segunda nota: ");
         nota2 = entrada.nextDouble();
        
-        while (nota2<=0 || nota2>10) {
+        while (nota2<0 || nota2>10) {
             System.out.println("Nota inválida, tente novamente: ");
             nota2 = entrada.nextDouble();
         }
