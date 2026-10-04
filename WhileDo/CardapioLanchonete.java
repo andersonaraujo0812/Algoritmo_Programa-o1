@@ -115,7 +115,9 @@ public class CardapioLanchonete {
             default:
                 System.out.println("Opção inválida, tente novamente!\n");
                 break;
-        } 
+        }
+                System.out.println("\nDeseja continuar? SIM(1) NAO(0)");
+        
 
         
     } while (cardapio != 0);
